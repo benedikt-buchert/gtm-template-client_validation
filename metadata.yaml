@@ -1,0 +1,6 @@
+homepage: "https://github.com/benedikt-buchert/tracking_validator"
+documentation: "https://github.com/benedikt-buchert/tracking_validator"
+versions:
+  - sha: "36c97871aff80429fdfdaa5181ae2f03bbb627d7"
+    changeNotes: "chore: Clean up templates and fix metadata
+"
